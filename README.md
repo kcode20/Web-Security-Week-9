@@ -4,7 +4,7 @@ Web-Security-Week9
 
 #### Honeypot
 
-Time spent: 14 hours spent in total
+Time spent: 20 hours spent in total
 
 #### Which Honeypot(s) you deployed
 

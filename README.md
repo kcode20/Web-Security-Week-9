@@ -29,8 +29,10 @@ In addition, there was false information in the documentation. For example, ther
 
 The total amount of ports attacked were:
 
-1433 (1074 times)
+1433 (90 times)
 
-22 (2530 times)
+22 (37 times)
 
-3306 (80 times)
+3306 (17 times)
+
+Dionaea was the honeypot with the most attacks.
